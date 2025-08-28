@@ -1,0 +1,25 @@
+EstimatedPrintTime: 4h 45m
+MaterialUsage: 22.38m (53g)
+Printer: Zortrax M200
+Profile: Last settings
+Material: ABS-based filament
+Layer: 0.19 mm
+Quality: Default
+Infill: 30%
+Fan speed: Auto
+Seam: Normal
+Outer contours: 0
+Holes: 0
+Surface layers Top: 6
+Surface layers Bottom: 4
+Support Lite: False
+Smart bridges: False
+Print speed: +0%
+Extruder flow ratio: +0%
+Top layer infill (%): 100
+Bottom layer infill (%): 100
+Extrusion temp.: 250
+Platform temp.: 50
+Retraction speed: 30
+Retraction distance: 0.5
+First layer gap: 0.3 mm

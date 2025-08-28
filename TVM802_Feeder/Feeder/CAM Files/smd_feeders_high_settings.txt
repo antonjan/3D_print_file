@@ -1,0 +1,15 @@
+EstimatedPrintTime: 13h 23m
+MaterialUsage: 21.27m (51g)
+Printer: Zortrax M200
+Material: Z-ABS
+Layer: 0.09 mm
+Quality: High
+Infill: Solid
+Fan speed: 100%
+Seam: Normal
+Outer contours: 0
+Holes: 0
+Surface layers Top: 9
+Surface layers Bottom: 4
+Support Lite: False
+Smart bridges: False
